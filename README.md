@@ -3,7 +3,6 @@
 Use GPT personalization to produce higher-quality responses.
 
 ## Usage
----
 Paste into Customer Instructions under Personalization
 
 ```text
